@@ -1,0 +1,20 @@
+[
+    {
+        "title": "yoga",
+        "description": "stay fit stay healthy!",
+        "category": "Personal",
+        "status": "completed"
+    },
+    {
+        "title": "study",
+        "description": "gives knowledge",
+        "category": "Work",
+        "status": "completed"
+    },
+    {
+        "title": "meeting",
+        "description": "impress foreign clients",
+        "category": "Urgent",
+        "status": "completed"
+    }
+]
