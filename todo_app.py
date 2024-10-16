@@ -54,7 +54,7 @@ class ToDoApp:
         # Create a popup for adding a task
         self.add_task_window = tk.Toplevel(self.root)
         self.add_task_window.title("Add Task")
-        self.add_task_window.geometry("300x200")
+        self.add_task_window.geometry("500x400")
 
         tk.Label(self.add_task_window, text="Task Title:").pack(pady=5)
         self.title_entry = tk.Entry(self.add_task_window, width=30)
